@@ -7,7 +7,12 @@
     <title>Flappy Bird</title>
 
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        html,
+        body {
+            height: 100%;
+            overflow: hidden;
+        }
 
         body {
             margin: 0;
@@ -16,12 +21,6 @@
             user-select: none;
             overflow: hidden;
             padding: 0;
-        }
-
-        html,
-        body {
-            height: 100%;
-            overflow: hidden;
         }
 
         header {
@@ -72,7 +71,7 @@
             }
 
             .score-container>div {
-                font-size: 10px;
+                font-size: 14px;
             }
 
             canvas {
