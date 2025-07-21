@@ -25,12 +25,12 @@ Bạn có thể chơi trực tiếp tại: https://panbap.github.io/Flappy-Bird/
 - JavaScript (Canvas API)
 
 ## 📁 Cấu trúc dự án
-'''text
+```text
 ├── index.html
 ├── README.md
 ├── flappy.js (đang sử dụng CDN)
 └── /assets (thư mục ảnh/âm thanh nếu bạn tự lưu trữ)
-'''
+```
 less
 Copy
 Edit
